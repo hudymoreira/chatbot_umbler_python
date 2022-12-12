@@ -6,7 +6,7 @@ token = ""
 fromPhone = ""
 organizationId = ""
 
-telefone = "11960819190"
+telefone = "11900000000"
 
 mensagem = "Teste de envio 12345"
 
